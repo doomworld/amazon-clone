@@ -1,0 +1,13 @@
+.login__logo {
+	width: 150px;
+	object-fit: contain;
+}
+
+.login__link {
+	text-decoration: none;
+	color: inherit;
+}
+
+.login__link:hover {
+	text-decoration: underline;
+}
